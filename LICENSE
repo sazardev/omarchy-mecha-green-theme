@@ -19,13 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-The MIT grant above covers the theme configuration, plugins, scripts and the
-original helmet/topographic/keyboard artwork in this repository.
-
-It does NOT cover Halo artwork. Halo images are not bundled in this repository.
-If you use the optional fetch script, those images remain the property of
-Microsoft, 343 Industries and their respective Wallhaven uploaders, and are
-provided for personal desktop use only.

@@ -5,8 +5,6 @@ mode = "dark"
 
 accent = "#f2c84b"          # visor amber / keyboard legends
 selection = "#2e351c"       # smoky olive selection row
-selection_background = "#3a4322"
-selection_foreground = "#f2efcf"
 muted = "#737c58"           # sage grey, inactive text
 
 background = "#0e1009"      # near-black olive
