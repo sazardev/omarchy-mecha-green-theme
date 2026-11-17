@@ -1,0 +1,40 @@
+# Mecha Green — olive drab, worn steel and Master Chief's amber visor.
+# Tuned to sit next to an MCHOSE Ace 75 in Mecha Green.
+
+mode = "dark"
+
+accent = "#f2c84b"          # visor amber / keyboard legends
+selection = "#2e351c"       # smoky olive selection row
+selection_background = "#3a4322"
+selection_foreground = "#f2efcf"
+muted = "#737c58"           # sage grey, inactive text
+
+background = "#0e1009"      # near-black olive
+dark_background = "#090b06"
+darker_background = "#050603"
+lighter_background = "#1a1e11"
+
+foreground = "#d8d9b4"      # pale sage / sand
+dark_foreground = "#7e8662"
+light_foreground = "#bcc09a"
+bright_foreground = "#f2efcf"
+
+red = "#c85b47"             # rust warning light
+yellow = "#e8c35a"          # pale keyboard gold
+orange = "#d9923f"          # amber wash
+green = "#9dae5c"           # military olive green
+cyan = "#7fa89a"            # patina / HUD teal
+blue = "#6f9099"            # UNSC steel teal
+magenta = "#b47e8b"         # dusty mauve
+brown = "#8a7048"           # leather / gunmetal brown
+
+bright_red = "#e2725a"
+bright_yellow = "#ffd76b"
+bright_green = "#c3d47c"
+bright_cyan = "#a7c9b7"
+bright_blue = "#97b7bf"
+bright_magenta = "#d49eab"
+
+# Amber-to-olive window border, like the glow around the visor.
+hyprland_active_border = "rgba(f2c84bee) rgba(9dae5cee) 45deg"
+hyprland_inactive_border = "rgba(737c58aa)"
