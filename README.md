@@ -81,7 +81,7 @@ adds:
 
 ## License
 
-Theme configuration, scripts and original artwork are MIT. See [LICENSE](LICENSE).
+Theme configuration and original artwork are MIT. See [LICENSE](LICENSE).
 
 Halo, Master Chief, MCHOSE and Omarchy are trademarks of their respective
 owners. This is a personal fan theme, not affiliated with or endorsed by
