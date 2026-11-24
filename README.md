@@ -87,6 +87,19 @@ adds:
 - **SDDM login** and **Plymouth boot** themes plus lock-screen previews.
 - The two-theme `install.sh` for the complete setup.
 
+## Login and boot screens (optional)
+
+Install the matching flat SDDM login and Plymouth splash without cloning the
+full project:
+
+```sh
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/sazardev/omarchy-mecha-green/main/system/install-login.sh)"
+```
+
+The installer backs up the current configuration and rebuilds the initramfs.
+The login appears after logout/reboot; the Plymouth splash appears on the next
+boot. Requires `git`, SDDM and Plymouth.
+
 ## License
 
 Theme configuration and original artwork are MIT. See [LICENSE](LICENSE).
