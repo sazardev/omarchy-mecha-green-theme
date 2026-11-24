@@ -41,16 +41,24 @@ The theme sets `mode = "dark"` and styles the bar, menus, notifications,
 launcher, OSD, lock screen, btop, Chromium, Neovim, Helix and the terminal
 through Omarchy's normal palette generation.
 
-## Wallpaper
+## Wallpapers
 
-One original flat wallpaper, licensed MIT together with the theme:
+Seven original flat stills and six clean live loops, licensed MIT together with
+the theme:
 
 | | |
 |---|---|
-| ![](backgrounds/0-topographic.webp)<br>**Topographic Wave** — flowing olive contours and Geist typography on the solid theme background |
+| ![](backgrounds/0-topographic.webp)<br>**Default Wave** — the default brand wallpaper |
+| ![](backgrounds/100-drift.webp)<br>**Drift** — wide diagonal contours |
+| ![](backgrounds/101-fold.webp)<br>**Fold** — vertical contour folds |
+| ![](backgrounds/102-field.webp)<br>**Field** — full-screen horizontal contours |
+| ![](backgrounds/103-terrain.webp)<br>**Terrain** — full-screen nested contours |
+| ![](backgrounds/104-panorama.webp)<br>**Panorama** — full-bleed diagonal wave |
+| ![](backgrounds/105-undulate.webp)<br>**Undulate** — full-screen low wave |
 
-`0-topographic.webp` is 2560×1440 and sorts first, so it remains the default even
-if you add personal wallpapers. No live loops are bundled.
+`0-topographic.webp` sorts first and remains the default. The `100-` series
+avoids collisions with optional Halo wallpapers. Each of the six new designs
+also has an 8-second H.264 live loop with animated lines and fixed typography.
 
 ## Included
 
@@ -61,7 +69,8 @@ if you add personal wallpapers. No live loops are bundled.
   `keyboard.rgb`.
 - `unlock.png` and `preview-unlock.png` — amber Omarchy mark on dark olive.
 - `preview.png` — 16:9 theme preview.
-- `backgrounds/0-topographic.webp` — the single default flat wallpaper.
+- `backgrounds/` — seven flat stills and six live loops, with
+  `0-topographic.webp` as the default.
 
 ## Full project
 
